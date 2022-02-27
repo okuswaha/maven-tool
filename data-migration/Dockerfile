@@ -1,0 +1,12 @@
+FROM 
+USER
+
+WORKDIR
+COPY
+
+WORKDIR
+RUN
+RUN
+
+WORKDIR
+ENTRYPOINT ["sh","-c","mvn --version"]
